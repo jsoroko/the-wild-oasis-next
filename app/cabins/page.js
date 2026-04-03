@@ -1,4 +1,4 @@
-import Counter from "../comopnents/Counter";
+import Counter from "./Counter";
 import Navigation from "../comopnents/Navigation";
 
 export default async function Page() {
